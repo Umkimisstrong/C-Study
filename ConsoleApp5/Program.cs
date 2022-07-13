@@ -37,6 +37,18 @@ namespace ConsoleApp5
             Console.WriteLine(ab);
             // OverFlow 되는 변수는 0이된다.
 
+
+
+
+
+            Console.WriteLine("Total : {0, -7: D}", 123);   // 첨자 : 0, 맞춤 : -7, 서식문자열 : D
+            Console.WriteLine("{0, -10}DEF", "ABC");
+            // ABC       DEF
+
+
+            DateTime dt = new DateTime(2018, 11, 3, 23, 18, 22);
+            Console.WriteLine("{0}", dt);
+            //2018 - 11 - 03 오후 11:18:22
         }
     }
 }
