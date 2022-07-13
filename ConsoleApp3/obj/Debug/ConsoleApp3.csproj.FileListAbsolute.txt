@@ -1,0 +1,7 @@
+C:\C#Study\C-Study\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\C#Study\C-Study\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\C#Study\C-Study\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\C#Study\C-Study\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\C#Study\C-Study\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\C#Study\C-Study\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

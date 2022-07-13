@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EHqSKJ19napPHoiXIWQrMk3KDIkgLYFzdGL0dwCGA5mVbcbYfn5MrJ6tb4e6LtjiOdf8HyUBIur4FjJX5aLaDA==",
+  "dgSpecHash": "xhgJlKHog7DgX5DC+CvsWiaGQ5UU0ltpqp/YsZQuwP/l2cb7Azekg2TRdUIVFdwu7bYdJbf1U42UJG+iorI1+A==",
   "success": true,
-  "projectFilePath": "C:\\C#Study\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\C#Study\\C-Study\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
