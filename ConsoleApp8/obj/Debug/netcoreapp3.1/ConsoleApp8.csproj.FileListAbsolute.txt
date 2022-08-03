@@ -1,0 +1,14 @@
+C:\C#Study\C-Study\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.exe
+C:\C#Study\C-Study\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.deps.json
+C:\C#Study\C-Study\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.dll
+C:\C#Study\C-Study\ConsoleApp8\bin\Debug\netcoreapp3.1\ConsoleApp8.pdb
+C:\C#Study\C-Study\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csproj.AssemblyReference.cache
+C:\C#Study\C-Study\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.dll
+C:\C#Study\C-Study\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.pdb
+C:\C#Study\C-Study\ConsoleApp8\obj\Debug\netcoreapp3.1\ConsoleApp8.genruntimeconfig.cache
