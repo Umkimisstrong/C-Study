@@ -1,0 +1,13 @@
+C:\C#Study\C-Study\ConsoleApp10_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp10_Delegate.exe
+C:\C#Study\C-Study\ConsoleApp10_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp10_Delegate.deps.json
+C:\C#Study\C-Study\ConsoleApp10_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp10_Delegate.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp10_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp10_Delegate.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp10_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp10_Delegate.dll
+C:\C#Study\C-Study\ConsoleApp10_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp10_Delegate.pdb
+C:\C#Study\C-Study\ConsoleApp10_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp10_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp10_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp10_Delegate.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp10_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp10_Delegate.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp10_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp10_Delegate.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp10_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp10_Delegate.dll
+C:\C#Study\C-Study\ConsoleApp10_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp10_Delegate.pdb
+C:\C#Study\C-Study\ConsoleApp10_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp10_Delegate.genruntimeconfig.cache

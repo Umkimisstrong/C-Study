@@ -1,0 +1,13 @@
+C:\C#Study\C-Study\ConsoleApp11_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp11_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp11_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp11_Delegate.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp11_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp11_Delegate.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp11_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp11_Delegate.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp11_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp11_Delegate.exe
+C:\C#Study\C-Study\ConsoleApp11_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp11_Delegate.deps.json
+C:\C#Study\C-Study\ConsoleApp11_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp11_Delegate.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp11_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp11_Delegate.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp11_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp11_Delegate.dll
+C:\C#Study\C-Study\ConsoleApp11_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp11_Delegate.pdb
+C:\C#Study\C-Study\ConsoleApp11_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp11_Delegate.dll
+C:\C#Study\C-Study\ConsoleApp11_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp11_Delegate.pdb
+C:\C#Study\C-Study\ConsoleApp11_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp11_Delegate.genruntimeconfig.cache

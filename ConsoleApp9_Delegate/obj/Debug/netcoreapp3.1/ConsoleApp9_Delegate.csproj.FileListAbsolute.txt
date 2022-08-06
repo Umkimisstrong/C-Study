@@ -1,0 +1,14 @@
+C:\C#Study\C-Study\ConsoleApp9_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp9_Delegate.csproj.AssemblyReference.cache
+C:\C#Study\C-Study\ConsoleApp9_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp9_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp9_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp9_Delegate.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp9_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp9_Delegate.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp9_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp9_Delegate.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp9_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp9_Delegate.exe
+C:\C#Study\C-Study\ConsoleApp9_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp9_Delegate.deps.json
+C:\C#Study\C-Study\ConsoleApp9_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp9_Delegate.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp9_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp9_Delegate.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp9_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp9_Delegate.dll
+C:\C#Study\C-Study\ConsoleApp9_Delegate\bin\Debug\netcoreapp3.1\ConsoleApp9_Delegate.pdb
+C:\C#Study\C-Study\ConsoleApp9_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp9_Delegate.dll
+C:\C#Study\C-Study\ConsoleApp9_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp9_Delegate.pdb
+C:\C#Study\C-Study\ConsoleApp9_Delegate\obj\Debug\netcoreapp3.1\ConsoleApp9_Delegate.genruntimeconfig.cache
