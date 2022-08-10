@@ -1,0 +1,13 @@
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\bin\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.exe
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\bin\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.deps.json
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\bin\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\bin\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\bin\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.dll
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\bin\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.pdb
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\obj\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\obj\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\obj\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\obj\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\obj\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.dll
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\obj\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.pdb
+C:\C#Study\C-Study\ConsoleApp21_Lambda_Expression\obj\Debug\netcoreapp3.1\ConsoleApp21_Lambda_Expression.genruntimeconfig.cache

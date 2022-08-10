@@ -1,0 +1,13 @@
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\bin\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.exe
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\bin\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.deps.json
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\bin\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\bin\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\bin\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.dll
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\bin\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.pdb
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\obj\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\obj\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\obj\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\obj\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\obj\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.dll
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\obj\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.pdb
+C:\C#Study\C-Study\ConsoleApp19_Lambda_ACtion\obj\Debug\netcoreapp3.1\ConsoleApp19_Lambda_ACtion.genruntimeconfig.cache

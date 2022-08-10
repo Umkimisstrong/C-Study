@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp20_Lambda_Tree", "ConsoleApp20_Lambda_Tree.csproj", "{A13EA5A8-1558-4854-A444-F9FB17BE20E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A13EA5A8-1558-4854-A444-F9FB17BE20E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13EA5A8-1558-4854-A444-F9FB17BE20E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13EA5A8-1558-4854-A444-F9FB17BE20E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13EA5A8-1558-4854-A444-F9FB17BE20E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BAA874C-C24F-46EA-9AF8-A0A49572539F}
+	EndGlobalSection
+EndGlobal

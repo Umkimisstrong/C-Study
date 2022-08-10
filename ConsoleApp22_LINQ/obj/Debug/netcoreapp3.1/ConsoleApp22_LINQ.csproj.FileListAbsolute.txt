@@ -1,0 +1,14 @@
+C:\C#Study\C-Study\ConsoleApp22_LINQ\bin\Debug\netcoreapp3.1\ConsoleApp22_LINQ.exe
+C:\C#Study\C-Study\ConsoleApp22_LINQ\bin\Debug\netcoreapp3.1\ConsoleApp22_LINQ.deps.json
+C:\C#Study\C-Study\ConsoleApp22_LINQ\bin\Debug\netcoreapp3.1\ConsoleApp22_LINQ.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp22_LINQ\bin\Debug\netcoreapp3.1\ConsoleApp22_LINQ.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp22_LINQ\bin\Debug\netcoreapp3.1\ConsoleApp22_LINQ.dll
+C:\C#Study\C-Study\ConsoleApp22_LINQ\bin\Debug\netcoreapp3.1\ConsoleApp22_LINQ.pdb
+C:\C#Study\C-Study\ConsoleApp22_LINQ\obj\Debug\netcoreapp3.1\ConsoleApp22_LINQ.csproj.AssemblyReference.cache
+C:\C#Study\C-Study\ConsoleApp22_LINQ\obj\Debug\netcoreapp3.1\ConsoleApp22_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp22_LINQ\obj\Debug\netcoreapp3.1\ConsoleApp22_LINQ.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp22_LINQ\obj\Debug\netcoreapp3.1\ConsoleApp22_LINQ.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp22_LINQ\obj\Debug\netcoreapp3.1\ConsoleApp22_LINQ.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp22_LINQ\obj\Debug\netcoreapp3.1\ConsoleApp22_LINQ.dll
+C:\C#Study\C-Study\ConsoleApp22_LINQ\obj\Debug\netcoreapp3.1\ConsoleApp22_LINQ.pdb
+C:\C#Study\C-Study\ConsoleApp22_LINQ\obj\Debug\netcoreapp3.1\ConsoleApp22_LINQ.genruntimeconfig.cache

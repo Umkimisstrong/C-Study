@@ -1,0 +1,13 @@
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\bin\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.exe
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\bin\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.deps.json
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\bin\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\bin\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\bin\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.dll
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\bin\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.pdb
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\obj\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\obj\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\obj\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\obj\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\obj\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.dll
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\obj\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.pdb
+C:\C#Study\C-Study\ConsoleApp20_Lambda_Tree\obj\Debug\netcoreapp3.1\ConsoleApp20_Lambda_Tree.genruntimeconfig.cache

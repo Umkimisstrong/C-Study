@@ -1,0 +1,14 @@
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\bin\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.exe
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\bin\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.deps.json
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\bin\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\bin\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\bin\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.dll
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\bin\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.pdb
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\obj\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.csproj.AssemblyReference.cache
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\obj\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\obj\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\obj\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\obj\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\obj\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.dll
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\obj\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.pdb
+C:\C#Study\C-Study\ConsoleApp18_Lambda_Action\obj\Debug\netcoreapp3.1\ConsoleApp18_Lambda_Action.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\C#Study\C-Study\ConsoleApp16_Lambda\bin\Debug\netcoreapp3.1\ConsoleApp16_Lambda.exe
+C:\C#Study\C-Study\ConsoleApp16_Lambda\bin\Debug\netcoreapp3.1\ConsoleApp16_Lambda.deps.json
+C:\C#Study\C-Study\ConsoleApp16_Lambda\bin\Debug\netcoreapp3.1\ConsoleApp16_Lambda.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp16_Lambda\bin\Debug\netcoreapp3.1\ConsoleApp16_Lambda.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp16_Lambda\bin\Debug\netcoreapp3.1\ConsoleApp16_Lambda.dll
+C:\C#Study\C-Study\ConsoleApp16_Lambda\bin\Debug\netcoreapp3.1\ConsoleApp16_Lambda.pdb
+C:\C#Study\C-Study\ConsoleApp16_Lambda\obj\Debug\netcoreapp3.1\ConsoleApp16_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp16_Lambda\obj\Debug\netcoreapp3.1\ConsoleApp16_Lambda.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp16_Lambda\obj\Debug\netcoreapp3.1\ConsoleApp16_Lambda.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp16_Lambda\obj\Debug\netcoreapp3.1\ConsoleApp16_Lambda.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp16_Lambda\obj\Debug\netcoreapp3.1\ConsoleApp16_Lambda.dll
+C:\C#Study\C-Study\ConsoleApp16_Lambda\obj\Debug\netcoreapp3.1\ConsoleApp16_Lambda.pdb
+C:\C#Study\C-Study\ConsoleApp16_Lambda\obj\Debug\netcoreapp3.1\ConsoleApp16_Lambda.genruntimeconfig.cache
+C:\C#Study\C-Study\ConsoleApp16_Lambda\obj\Debug\netcoreapp3.1\ConsoleApp16_Lambda.csproj.AssemblyReference.cache
