@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp12_DelgateChains/1.0.0": {
+        "runtime": {
+          "ConsoleApp12_DelgateChains.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp12_DelgateChains/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

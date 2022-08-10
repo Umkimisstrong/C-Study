@@ -1,0 +1,13 @@
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\obj\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\obj\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\obj\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\obj\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\bin\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.exe
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\bin\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.deps.json
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\bin\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\bin\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\bin\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.dll
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\bin\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.pdb
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\obj\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.dll
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\obj\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.pdb
+C:\C#Study\C-Study\ConsoleApp14_NoNameMethod\obj\Debug\netcoreapp3.1\ConsoleApp14_NoNameMethod.genruntimeconfig.cache

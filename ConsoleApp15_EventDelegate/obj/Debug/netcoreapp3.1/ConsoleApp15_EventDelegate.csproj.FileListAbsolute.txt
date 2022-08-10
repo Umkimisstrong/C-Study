@@ -1,0 +1,13 @@
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\bin\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.exe
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\bin\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.deps.json
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\bin\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\bin\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\bin\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.dll
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\bin\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.pdb
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\obj\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\obj\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\obj\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\obj\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\obj\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.dll
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\obj\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.pdb
+C:\C#Study\C-Study\ConsoleApp15_EventDelegate\obj\Debug\netcoreapp3.1\ConsoleApp15_EventDelegate.genruntimeconfig.cache

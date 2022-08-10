@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleApp15_EventDelegate/1.0.0": {
+        "runtime": {
+          "ConsoleApp15_EventDelegate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleApp15_EventDelegate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
