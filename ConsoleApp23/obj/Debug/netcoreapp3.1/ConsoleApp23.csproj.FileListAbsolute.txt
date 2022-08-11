@@ -1,0 +1,14 @@
+C:\C#Study\C-Study\ConsoleApp23\bin\Debug\netcoreapp3.1\ConsoleApp23.exe
+C:\C#Study\C-Study\ConsoleApp23\bin\Debug\netcoreapp3.1\ConsoleApp23.deps.json
+C:\C#Study\C-Study\ConsoleApp23\bin\Debug\netcoreapp3.1\ConsoleApp23.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp23\bin\Debug\netcoreapp3.1\ConsoleApp23.runtimeconfig.dev.json
+C:\C#Study\C-Study\ConsoleApp23\bin\Debug\netcoreapp3.1\ConsoleApp23.dll
+C:\C#Study\C-Study\ConsoleApp23\bin\Debug\netcoreapp3.1\ConsoleApp23.pdb
+C:\C#Study\C-Study\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.csproj.AssemblyReference.cache
+C:\C#Study\C-Study\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.dll
+C:\C#Study\C-Study\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.pdb
+C:\C#Study\C-Study\ConsoleApp23\obj\Debug\netcoreapp3.1\ConsoleApp23.genruntimeconfig.cache
