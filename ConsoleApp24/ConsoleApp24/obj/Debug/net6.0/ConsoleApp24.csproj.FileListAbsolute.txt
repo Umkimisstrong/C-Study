@@ -1,0 +1,15 @@
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.exe
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.deps.json
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.runtimeconfig.json
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.dll
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\bin\Debug\net6.0\ConsoleApp24.pdb
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.csproj.AssemblyReference.cache
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.AssemblyInfoInputs.cache
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.AssemblyInfo.cs
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.csproj.CoreCompileInputs.cache
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.dll
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\refint\ConsoleApp24.dll
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.pdb
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ConsoleApp24.genruntimeconfig.cache
+C:\C#Study\C-Study\ConsoleApp24\ConsoleApp24\obj\Debug\net6.0\ref\ConsoleApp24.dll

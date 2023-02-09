@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Mosti.Configuration.v2.2">
+      <HintPath>..\..\..\ASP.NETStudy\ASP.NETStudy\MostiSubject_MVC_Board\Resources\Mosti.Configuration.v2.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Mosti.Models.v2.2">
+      <HintPath>..\..\..\ASP.NETStudy\ASP.NETStudy\MostiSubject_MVC_Board\Resources\Mosti.Models.v2.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Mosti.Web.Mvc.Runtime.v2.2">
+      <HintPath>..\..\..\ASP.NETStudy\ASP.NETStudy\MostiSubject_MVC_Board\Resources\Mosti.Web.Mvc.Runtime.v2.2.dll</HintPath>
+    </Reference>
+    <Reference Include="Mosti.Web.Mvc.Theme.v2.2">
+      <HintPath>..\..\..\ASP.NETStudy\ASP.NETStudy\MostiSubject_MVC_Board\Resources\Mosti.Web.Mvc.Theme.v2.2.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
